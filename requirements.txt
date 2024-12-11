@@ -1,0 +1,6 @@
+gradio
+pydantic_ai
+pydantic
+yfinance
+pandas
+openai

@@ -57,6 +57,7 @@ Para ejecutar el proyecto, simplemente ejecuta el siguiente comando en la termin
 ```bash
 python app.py
 ```
+LINK: https://huggingface.co/spaces/RicardoDataScience36/Asistente-de-Precios-de-Acciones-AI
 
 Esto iniciará la interfaz de usuario web en tu navegador predeterminado, donde podrás realizar consultas sobre precios de acciones.
 
